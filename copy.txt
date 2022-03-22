@@ -1,0 +1,4 @@
+fr /mnt/jffs2/fr
+fw /mnt/jffs2/fw
+i2c_rd /mnt/jffs2/i2c_rd
+i2c_wr /mnt/jffs2/i2c_wr
